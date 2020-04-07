@@ -40,7 +40,7 @@ body{
   }
 
 .navbar{
-    font-size: 50px;
+    font-size: 75px;
     max-height: 55px; 
 }
 
@@ -70,11 +70,12 @@ body{
 .dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover{
     background-color:lightgrey; 
     min-width: 50px;
+    font-size: 50px; 
 }
 
 a{
     color: lightgrey;
-    font-size: 10px; 
+    font-size: 20px; 
 }
 
 .nav-link:hover{
@@ -129,7 +130,7 @@ background-color: lightseagreen;
     background-color: white;  
 }
 .navbar-brand{
-    padding: 10px ; 
+    padding: 20px ; 
 }
 
 button{
